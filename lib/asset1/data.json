@@ -1,0 +1,30 @@
+[
+   {
+      "name":"Pavan Kumar",
+      "age":23,
+      "height":172,
+      "gender":"male",
+      "hair_color":"black"
+   },
+   {
+      "name":"Karena",
+      "age":23,
+      "height":160,
+      "gender":"femail",
+      "hair_color":"white"
+   },
+   {
+      "name":"Rohit Sharma",
+      "age":40,
+      "height":165,
+      "gender":"male",
+      "hair_color":"black"
+   },
+   {
+      "name":"Kamal hasan",
+      "age":30,
+      "height":168,
+      "gender":"male",
+      "hair_color":"white"
+   }
+]
